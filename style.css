@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #414141;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: #FFFFFF;
+}
+
+#app {
+	width: 100vw;
+	height: 100vh;
+	display: grid;
+	grid-template-columns: 1fr 3fr;
+}
